@@ -1,0 +1,10 @@
+body {
+    background-image: url(accu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    /*
+    background:url(compweb.png) no-repeat center/cover fixed;*/
+
+}
