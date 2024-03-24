@@ -1,0 +1,12 @@
+@import "./lib/bootstrap/css/bootstrap.css";
+header
+{
+   background: url(bijo.png) no-repeat center;
+
+    /*background-color: black;*/
+    /*color:aliceblue;*/
+    padding-top: 30px;
+    min-height: 100px;
+    border-bottom : #32a0c2 5px solid;
+}
+
