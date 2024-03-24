@@ -50,7 +50,7 @@
 
                     </div>
                     <div class=" col-md-6 text-end">
-                        <a href="#"> forget password ?</a>
+                        <a href="#"> forget password ??</a>
                     </div>
 
 
